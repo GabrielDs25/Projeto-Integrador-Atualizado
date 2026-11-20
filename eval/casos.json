@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "C001",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual a saída de print(2 ** 3) em Python?",
+    "resposta_referencia": "8",
+    "palavras_chave": [
+      "8",
+      "oito"
+    ]
+  },
+  {
+    "id": "C002",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual função embutida do Python retorna o número de elementos de uma lista?",
+    "resposta_referencia": "len()",
+    "palavras_chave": [
+      "len"
+    ]
+  },
+  {
+    "id": "C003",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de 7 // 2 em Python?",
+    "resposta_referencia": "3",
+    "palavras_chave": [
+      "3",
+      "tres"
+    ]
+  },
+  {
+    "id": "C004",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de 7 % 3 em Python?",
+    "resposta_referencia": "1",
+    "palavras_chave": [
+      "1",
+      "um"
+    ]
+  },
+  {
+    "id": "C005",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual palavra-chave define uma função em Python?",
+    "resposta_referencia": "def",
+    "palavras_chave": [
+      "def"
+    ]
+  },
+  {
+    "id": "C006",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o tipo do valor 3.14 em Python?",
+    "resposta_referencia": "float",
+    "palavras_chave": [
+      "float"
+    ]
+  },
+  {
+    "id": "C007",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de len(\"banana\") em Python?",
+    "resposta_referencia": "6",
+    "palavras_chave": [
+      "6",
+      "seis"
+    ]
+  },
+  {
+    "id": "C008",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual método de lista adiciona um elemento ao final da lista em Python?",
+    "resposta_referencia": "append()",
+    "palavras_chave": [
+      "append"
+    ]
+  },
+  {
+    "id": "C009",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "O que retorna bool([]) em Python?",
+    "resposta_referencia": "False",
+    "palavras_chave": [
+      "false"
+    ]
+  },
+  {
+    "id": "C010",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual palavra-chave captura exceções em um bloco try em Python?",
+    "resposta_referencia": "except",
+    "palavras_chave": [
+      "except"
+    ]
+  },
+  {
+    "id": "C011",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de \"abc\"[::-1] em Python?",
+    "resposta_referencia": "'cba'",
+    "palavras_chave": [
+      "cba"
+    ]
+  },
+  {
+    "id": "C012",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual o nome do tipo do valor None em Python?",
+    "resposta_referencia": "NoneType",
+    "palavras_chave": [
+      "nonetype"
+    ]
+  },
+  {
+    "id": "C013",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual palavra-chave cria uma função anônima em Python?",
+    "resposta_referencia": "lambda",
+    "palavras_chave": [
+      "lambda"
+    ]
+  },
+  {
+    "id": "C014",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de list(range(3)) em Python?",
+    "resposta_referencia": "[0, 1, 2]",
+    "palavras_chave": [
+      "0, 1, 2",
+      "0,1,2"
+    ]
+  },
+  {
+    "id": "C015",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Tuplas em Python são mutáveis ou imutáveis?",
+    "resposta_referencia": "Imutáveis",
+    "palavras_chave": [
+      "imutavel",
+      "imutaveis",
+      "immutable"
+    ]
+  },
+  {
+    "id": "C016",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual comando instala pacotes Python a partir do PyPI?",
+    "resposta_referencia": "pip install",
+    "palavras_chave": [
+      "pip"
+    ]
+  },
+  {
+    "id": "C017",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de 10 / 4 em Python 3?",
+    "resposta_referencia": "2.5",
+    "palavras_chave": [
+      "2.5",
+      "2,5"
+    ]
+  },
+  {
+    "id": "C018",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual palavra-chave transforma uma função em gerador em Python?",
+    "resposta_referencia": "yield",
+    "palavras_chave": [
+      "yield"
+    ]
+  },
+  {
+    "id": "C019",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual método de string converte todas as letras para maiúsculas em Python?",
+    "resposta_referencia": "upper()",
+    "palavras_chave": [
+      "upper"
+    ]
+  },
+  {
+    "id": "C020",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de \"Py\" * 3 em Python?",
+    "resposta_referencia": "'PyPyPy'",
+    "palavras_chave": [
+      "pypypy"
+    ]
+  },
+  {
+    "id": "C021",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual estrutura de dados embutida do Python armazena pares chave-valor?",
+    "resposta_referencia": "Dicionário (dict)",
+    "palavras_chave": [
+      "dict",
+      "dicionario"
+    ]
+  },
+  {
+    "id": "C022",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de sorted([3, 1, 2]) em Python?",
+    "resposta_referencia": "[1, 2, 3]",
+    "palavras_chave": [
+      "1, 2, 3",
+      "1,2,3"
+    ]
+  },
+  {
+    "id": "C023",
+    "split": "calibracao",
+    "categoria": "python",
+    "pergunta": "Qual função embutida converte a string \"42\" no número inteiro 42 em Python?",
+    "resposta_referencia": "int()",
+    "palavras_chave": [
+      "int"
+    ]
+  },
+  {
+    "id": "C024",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual operador do Python verifica se duas variáveis referenciam o mesmo objeto?",
+    "resposta_referencia": "is",
+    "palavras_chave": [
+      "is"
+    ]
+  },
+  {
+    "id": "C025",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual arquivo marca, tradicionalmente, um diretório como pacote Python?",
+    "resposta_referencia": "__init__.py",
+    "palavras_chave": [
+      "__init__.py",
+      "__init__"
+    ]
+  },
+  {
+    "id": "C026",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual PEP define o guia de estilo de código Python?",
+    "resposta_referencia": "PEP 8",
+    "palavras_chave": [
+      "pep 8",
+      "pep8",
+      "pep-8"
+    ]
+  },
+  {
+    "id": "C027",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "O que imprime print(0.1 + 0.2 == 0.3) em Python?",
+    "resposta_referencia": "False",
+    "palavras_chave": [
+      "false"
+    ]
+  },
+  {
+    "id": "C028",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Quantos elementos tem o conjunto set([1, 1, 2]) em Python?",
+    "resposta_referencia": "2",
+    "palavras_chave": [
+      "2",
+      "dois"
+    ]
+  },
+  {
+    "id": "C029",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual palavra-chave do Python é usada com gerenciadores de contexto, como ao abrir arquivos?",
+    "resposta_referencia": "with",
+    "palavras_chave": [
+      "with"
+    ]
+  },
+  {
+    "id": "C030",
+    "split": "teste",
+    "categoria": "python",
+    "pergunta": "Qual o resultado de max([4, 9, 2]) em Python?",
+    "resposta_referencia": "9",
+    "palavras_chave": [
+      "9",
+      "nove"
+    ]
+  },
+  {
+    "id": "C031",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a complexidade de tempo da busca binária em um vetor ordenado?",
+    "resposta_referencia": "O(log n)",
+    "palavras_chave": [
+      "o(log n)",
+      "log n",
+      "logaritmica"
+    ]
+  },
+  {
+    "id": "C032",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Qual estrutura de dados segue a política LIFO (último a entrar, primeiro a sair)?",
+    "resposta_referencia": "Pilha",
+    "palavras_chave": [
+      "pilha",
+      "stack"
+    ]
+  },
+  {
+    "id": "C033",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Qual estrutura de dados segue a política FIFO (primeiro a entrar, primeiro a sair)?",
+    "resposta_referencia": "Fila",
+    "palavras_chave": [
+      "fila",
+      "queue"
+    ]
+  },
+  {
+    "id": "C034",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a complexidade de tempo do quicksort no caso médio?",
+    "resposta_referencia": "O(n log n)",
+    "palavras_chave": [
+      "n log n"
+    ]
+  },
+  {
+    "id": "C035",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a complexidade de tempo do bubble sort no pior caso?",
+    "resposta_referencia": "O(n²)",
+    "palavras_chave": [
+      "n^2",
+      "n²",
+      "n2",
+      "quadratica"
+    ]
+  },
+  {
+    "id": "C036",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Quantas arestas tem uma árvore com 10 vértices?",
+    "resposta_referencia": "9",
+    "palavras_chave": [
+      "9",
+      "nove"
+    ]
+  },
+  {
+    "id": "C037",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual algoritmo clássico encontra caminhos mínimos em grafos com pesos não negativos e leva o nome de um cientista holandês?",
+    "resposta_referencia": "Algoritmo de Dijkstra",
+    "palavras_chave": [
+      "dijkstra"
+    ]
+  },
+  {
+    "id": "C038",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual estrutura de dados auxiliar é usada na busca em largura (BFS)?",
+    "resposta_referencia": "Fila",
+    "palavras_chave": [
+      "fila",
+      "queue"
+    ]
+  },
+  {
+    "id": "C039",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual estrutura de dados auxiliar é usada em uma busca em profundidade (DFS) iterativa?",
+    "resposta_referencia": "Pilha",
+    "palavras_chave": [
+      "pilha",
+      "stack"
+    ]
+  },
+  {
+    "id": "C040",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a complexidade de tempo do acesso por índice em um array?",
+    "resposta_referencia": "O(1)",
+    "palavras_chave": [
+      "o(1)",
+      "constante"
+    ]
+  },
+  {
+    "id": "C041",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Quantos bits tem um byte?",
+    "resposta_referencia": "8",
+    "palavras_chave": [
+      "8",
+      "oito"
+    ]
+  },
+  {
+    "id": "C042",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Qual o valor decimal do número binário 1010?",
+    "resposta_referencia": "10",
+    "palavras_chave": [
+      "10",
+      "dez"
+    ]
+  },
+  {
+    "id": "C043",
+    "split": "calibracao",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a representação hexadecimal do número decimal 255?",
+    "resposta_referencia": "FF",
+    "palavras_chave": [
+      "ff",
+      "0xff"
+    ]
+  },
+  {
+    "id": "C044",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Como se chama a técnica que resolve um problema guardando resultados de subproblemas para reutilizá-los?",
+    "resposta_referencia": "Programação dinâmica",
+    "palavras_chave": [
+      "programacao dinamica",
+      "memoizacao",
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": "C045",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual algoritmo de ordenação divide a lista ao meio, ordena cada metade e depois intercala as duas?",
+    "resposta_referencia": "Merge sort (ordenação por intercalação)",
+    "palavras_chave": [
+      "merge sort",
+      "mergesort",
+      "intercalacao"
+    ]
+  },
+  {
+    "id": "C046",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual estrutura de dados é normalmente usada para implementar filas de prioridade, com inserção e remoção do mínimo em O(log n)?",
+    "resposta_referencia": "Heap",
+    "palavras_chave": [
+      "heap",
+      "monte"
+    ]
+  },
+  {
+    "id": "C047",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Quanto é 2 elevado a 10?",
+    "resposta_referencia": "1024",
+    "palavras_chave": [
+      "1024",
+      "1.024"
+    ]
+  },
+  {
+    "id": "C048",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Como se chama a estrutura que usa uma função para mapear chaves em posições de um vetor?",
+    "resposta_referencia": "Tabela hash (tabela de dispersão)",
+    "palavras_chave": [
+      "hash",
+      "dispersao"
+    ]
+  },
+  {
+    "id": "C049",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "O que é recursão em programação?",
+    "resposta_referencia": "Quando uma função chama a si mesma",
+    "palavras_chave": [
+      "chama a si mesma",
+      "chama a propria",
+      "si mesma"
+    ]
+  },
+  {
+    "id": "C050",
+    "split": "teste",
+    "categoria": "algoritmos",
+    "pergunta": "Qual a complexidade de tempo da busca linear em uma lista com n elementos?",
+    "resposta_referencia": "O(n)",
+    "palavras_chave": [
+      "o(n)",
+      "linear"
+    ]
+  },
+  {
+    "id": "C051",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "O que significa a sigla HTTP?",
+    "resposta_referencia": "HyperText Transfer Protocol (Protocolo de Transferência de Hipertexto)",
+    "palavras_chave": [
+      "hypertext transfer protocol",
+      "protocolo de transferencia de hipertexto"
+    ]
+  },
+  {
+    "id": "C052",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "Qual código de status HTTP indica que o recurso não foi encontrado?",
+    "resposta_referencia": "404",
+    "palavras_chave": [
+      "404"
+    ]
+  },
+  {
+    "id": "C053",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "Qual código de status HTTP indica sucesso padrão de uma requisição?",
+    "resposta_referencia": "200",
+    "palavras_chave": [
+      "200"
+    ]
+  },
+  {
+    "id": "C054",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual a porta padrão do HTTPS?",
+    "resposta_referencia": "443",
+    "palavras_chave": [
+      "443"
+    ]
+  },
+  {
+    "id": "C055",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual método HTTP é normalmente usado para criar um recurso em uma API REST?",
+    "resposta_referencia": "POST",
+    "palavras_chave": [
+      "post"
+    ]
+  },
+  {
+    "id": "C056",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual protocolo traduz nomes de domínio em endereços IP?",
+    "resposta_referencia": "DNS",
+    "palavras_chave": [
+      "dns"
+    ]
+  },
+  {
+    "id": "C057",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual código de status HTTP indica erro interno do servidor?",
+    "resposta_referencia": "500",
+    "palavras_chave": [
+      "500"
+    ]
+  },
+  {
+    "id": "C058",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "O que significa a sigla JSON?",
+    "resposta_referencia": "JavaScript Object Notation",
+    "palavras_chave": [
+      "javascript object notation"
+    ]
+  },
+  {
+    "id": "C059",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Quantos bits tem um endereço IPv4?",
+    "resposta_referencia": "32",
+    "palavras_chave": [
+      "32"
+    ]
+  },
+  {
+    "id": "C060",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual linguagem de marcação é usada para estruturar páginas web?",
+    "resposta_referencia": "HTML",
+    "palavras_chave": [
+      "html"
+    ]
+  },
+  {
+    "id": "C061",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "Qual a porta padrão do SSH?",
+    "resposta_referencia": "22",
+    "palavras_chave": [
+      "22"
+    ]
+  },
+  {
+    "id": "C062",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "Qual código de status HTTP indica falta de autenticação (não autorizado)?",
+    "resposta_referencia": "401",
+    "palavras_chave": [
+      "401"
+    ]
+  },
+  {
+    "id": "C063",
+    "split": "calibracao",
+    "categoria": "web",
+    "pergunta": "Qual linguagem é usada para definir o estilo visual de páginas web?",
+    "resposta_referencia": "CSS",
+    "palavras_chave": [
+      "css"
+    ]
+  },
+  {
+    "id": "C064",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "O que significa a sigla API?",
+    "resposta_referencia": "Application Programming Interface (Interface de Programação de Aplicações)",
+    "palavras_chave": [
+      "application programming interface",
+      "interface de programacao de aplicacoes",
+      "interface de programacao de aplicacao"
+    ]
+  },
+  {
+    "id": "C065",
+    "split": "teste",
+    "categoria": "web",
+    "pergunta": "Qual método HTTP é usado para remover um recurso em uma API REST?",
+    "resposta_referencia": "DELETE",
+    "palavras_chave": [
+      "delete"
+    ]
+  },
+  {
+    "id": "C066",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git cria uma cópia local de um repositório remoto?",
+    "resposta_referencia": "git clone",
+    "palavras_chave": [
+      "clone"
+    ]
+  },
+  {
+    "id": "C067",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git registra no histórico as alterações preparadas (staged)?",
+    "resposta_referencia": "git commit",
+    "palavras_chave": [
+      "commit"
+    ]
+  },
+  {
+    "id": "C068",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git envia os commits locais para o repositório remoto?",
+    "resposta_referencia": "git push",
+    "palavras_chave": [
+      "push"
+    ]
+  },
+  {
+    "id": "C069",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git mostra o estado dos arquivos do diretório de trabalho?",
+    "resposta_referencia": "git status",
+    "palavras_chave": [
+      "status"
+    ]
+  },
+  {
+    "id": "C070",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual arquivo lista os arquivos que o Git deve ignorar?",
+    "resposta_referencia": ".gitignore",
+    "palavras_chave": [
+      "gitignore"
+    ]
+  },
+  {
+    "id": "C071",
+    "split": "calibracao",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git cria uma nova branch e já muda para ela?",
+    "resposta_referencia": "git switch -c <nome> (ou git checkout -b <nome>)",
+    "palavras_chave": [
+      "switch -c",
+      "checkout -b"
+    ]
+  },
+  {
+    "id": "C072",
+    "split": "calibracao",
+    "categoria": "devops",
+    "pergunta": "Qual arquivo descreve como construir uma imagem Docker?",
+    "resposta_referencia": "Dockerfile",
+    "palavras_chave": [
+      "dockerfile"
+    ]
+  },
+  {
+    "id": "C073",
+    "split": "calibracao",
+    "categoria": "devops",
+    "pergunta": "Qual comando sobe os serviços definidos em um arquivo docker-compose.yml?",
+    "resposta_referencia": "docker compose up",
+    "palavras_chave": [
+      "compose up",
+      "docker-compose up"
+    ]
+  },
+  {
+    "id": "C074",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "O que significa a sigla CI em engenharia de software?",
+    "resposta_referencia": "Integração contínua (Continuous Integration)",
+    "palavras_chave": [
+      "integracao continua",
+      "continuous integration"
+    ]
+  },
+  {
+    "id": "C075",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Em qual formato de arquivo são escritos os workflows do GitHub Actions?",
+    "resposta_referencia": "YAML",
+    "palavras_chave": [
+      "yaml",
+      "yml"
+    ]
+  },
+  {
+    "id": "C076",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git baixa as alterações do remoto e as integra à branch atual?",
+    "resposta_referencia": "git pull",
+    "palavras_chave": [
+      "pull"
+    ]
+  },
+  {
+    "id": "C077",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Docker lista os containers em execução?",
+    "resposta_referencia": "docker ps",
+    "palavras_chave": [
+      "docker ps",
+      "docker container ls"
+    ]
+  },
+  {
+    "id": "C078",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual sistema de orquestração de containers foi criado originalmente pelo Google?",
+    "resposta_referencia": "Kubernetes",
+    "palavras_chave": [
+      "kubernetes",
+      "k8s"
+    ]
+  },
+  {
+    "id": "C079",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "No versionamento semântico (MAJOR.MINOR.PATCH), qual componente deve ser incrementado quando há uma mudança incompatível na API?",
+    "resposta_referencia": "MAJOR",
+    "palavras_chave": [
+      "major"
+    ]
+  },
+  {
+    "id": "C080",
+    "split": "teste",
+    "categoria": "devops",
+    "pergunta": "Qual comando Git mostra o histórico de commits?",
+    "resposta_referencia": "git log",
+    "palavras_chave": [
+      "log"
+    ]
+  },
+  {
+    "id": "C081",
+    "split": "calibracao",
+    "categoria": "banco_dados",
+    "pergunta": "Qual comando SQL é usado para consultar dados de uma tabela?",
+    "resposta_referencia": "SELECT",
+    "palavras_chave": [
+      "select"
+    ]
+  },
+  {
+    "id": "C082",
+    "split": "calibracao",
+    "categoria": "banco_dados",
+    "pergunta": "Qual cláusula SQL filtra as linhas retornadas por uma consulta?",
+    "resposta_referencia": "WHERE",
+    "palavras_chave": [
+      "where"
+    ]
+  },
+  {
+    "id": "C083",
+    "split": "calibracao",
+    "categoria": "banco_dados",
+    "pergunta": "Qual comando SQL remove uma tabela inteira, incluindo sua estrutura?",
+    "resposta_referencia": "DROP TABLE",
+    "palavras_chave": [
+      "drop"
+    ]
+  },
+  {
+    "id": "C084",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual cláusula SQL agrupa linhas para aplicar funções de agregação?",
+    "resposta_referencia": "GROUP BY",
+    "palavras_chave": [
+      "group by"
+    ]
+  },
+  {
+    "id": "C085",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual tipo de JOIN retorna apenas as linhas com correspondência nas duas tabelas?",
+    "resposta_referencia": "INNER JOIN",
+    "palavras_chave": [
+      "inner"
+    ]
+  },
+  {
+    "id": "C086",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "O que significa a sigla SQL?",
+    "resposta_referencia": "Structured Query Language",
+    "palavras_chave": [
+      "structured query language"
+    ]
+  },
+  {
+    "id": "C087",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual restrição garante que uma coluna identifica unicamente cada linha de uma tabela?",
+    "resposta_referencia": "Chave primária (PRIMARY KEY)",
+    "palavras_chave": [
+      "chave primaria",
+      "primary key"
+    ]
+  },
+  {
+    "id": "C088",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual função de agregação SQL conta linhas?",
+    "resposta_referencia": "COUNT",
+    "palavras_chave": [
+      "count"
+    ]
+  },
+  {
+    "id": "C089",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual comando SQL insere novas linhas em uma tabela?",
+    "resposta_referencia": "INSERT",
+    "palavras_chave": [
+      "insert"
+    ]
+  },
+  {
+    "id": "C090",
+    "split": "teste",
+    "categoria": "banco_dados",
+    "pergunta": "Qual propriedade ACID garante que uma transação é executada por completo ou não é executada?",
+    "resposta_referencia": "Atomicidade",
+    "palavras_chave": [
+      "atomicidade",
+      "atomicity"
+    ]
+  },
+  {
+    "id": "C091",
+    "split": "calibracao",
+    "categoria": "ia",
+    "pergunta": "O que significa a sigla LLM?",
+    "resposta_referencia": "Large Language Model (grande modelo de linguagem)",
+    "palavras_chave": [
+      "large language model",
+      "modelo de linguagem de grande",
+      "grande modelo de linguagem",
+      "modelo de linguagem grande"
+    ]
+  },
+  {
+    "id": "C092",
+    "split": "calibracao",
+    "categoria": "ia",
+    "pergunta": "O que significa a sigla RAG no contexto de LLMs?",
+    "resposta_referencia": "Retrieval-Augmented Generation (geração aumentada por recuperação)",
+    "palavras_chave": [
+      "retrieval-augmented generation",
+      "retrieval augmented generation",
+      "geracao aumentada"
+    ]
+  },
+  {
+    "id": "C093",
+    "split": "calibracao",
+    "categoria": "ia",
+    "pergunta": "Como se chama, em aprendizado de máquina, quando o modelo memoriza os dados de treino e generaliza mal?",
+    "resposta_referencia": "Overfitting (sobreajuste)",
+    "palavras_chave": [
+      "overfitting",
+      "sobreajuste"
+    ]
+  },
+  {
+    "id": "C094",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Qual métrica é a média harmônica entre precisão e recall?",
+    "resposta_referencia": "F1-score",
+    "palavras_chave": [
+      "f1",
+      "f1-score",
+      "f-score"
+    ]
+  },
+  {
+    "id": "C095",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Que tipo de aprendizado de máquina usa dados rotulados?",
+    "resposta_referencia": "Aprendizado supervisionado",
+    "palavras_chave": [
+      "supervisionado",
+      "supervised"
+    ]
+  },
+  {
+    "id": "C096",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Qual arquitetura de rede neural, apresentada no artigo \"Attention Is All You Need\", é a base dos LLMs modernos?",
+    "resposta_referencia": "Transformer",
+    "palavras_chave": [
+      "transformer",
+      "transformers"
+    ]
+  },
+  {
+    "id": "C097",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Como se chama a unidade básica de texto processada por um LLM?",
+    "resposta_referencia": "Token",
+    "palavras_chave": [
+      "token",
+      "tokens"
+    ]
+  },
+  {
+    "id": "C098",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Qual estatística mede a concordância entre dois avaliadores descontando a concordância esperada ao acaso?",
+    "resposta_referencia": "Kappa de Cohen",
+    "palavras_chave": [
+      "kappa"
+    ]
+  },
+  {
+    "id": "C099",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Como se chama uma resposta incorreta ou inventada apresentada com confiança por um LLM?",
+    "resposta_referencia": "Alucinação",
+    "palavras_chave": [
+      "alucinacao",
+      "alucinacoes",
+      "hallucination"
+    ]
+  },
+  {
+    "id": "C100",
+    "split": "teste",
+    "categoria": "ia",
+    "pergunta": "Qual parâmetro de geração controla a aleatoriedade das respostas de um LLM?",
+    "resposta_referencia": "Temperatura",
+    "palavras_chave": [
+      "temperatura",
+      "temperature"
+    ]
+  }
+]
