@@ -5,3 +5,6 @@ __pycache__/
 .env
 .pytest_cache/
 .streamlit/secrets.toml
+.coverage
+coverage.xml
+htmlcov/
