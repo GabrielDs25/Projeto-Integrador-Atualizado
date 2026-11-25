@@ -104,16 +104,16 @@ Os testes usam um cliente Ollama falso, por isso rodam na CI sem modelos. O work
 
 ## Uso de IA na programação
 
-Ferramentas usadas: _(preencher: por exemplo, Claude Code, GitHub Copilot)_. O registro das interações está em [PROMPTS.md](PROMPTS.md).
+Ferramentas usadas: _(Claude Code, GitHub Copilot,ChatGPT - para melhorias do prompt)_. O registro das interações está em [PROMPTS.md](PROMPTS.md).
 
 ## Contribuição de cada integrante
 
 | Integrante | Papel | Principais contribuições |
 |---|---|---|
-| _(nome)_ | Dados e Qualidade | |
-| _(nome)_ | Backend e Infraestrutura | |
-| _(nome)_ | IA e Avaliação | |
-| _(nome)_ | Produto e Interface | |
+| _(Leonardo,Gabriel)_ | Dados e Qualidade | Criação dos 100 casos de teste ([eval/casos.json](eval/casos.json), [eval/gerar_casos.py](eval/gerar_casos.py)) com divisão calibração/teste; validação dos casos ([src/casos.py](src/casos.py)); coordenação da avaliação humana; testes automatizados com cliente Ollama falso ([tests/](tests/)) e workflow de CI ([.github/workflows/ci.yml](.github/workflows/ci.yml)) |
+| _(Leonardo)_ | Backend e Infraestrutura | Integração com o Ollama ([src/model_runner.py](src/model_runner.py)); persistência em SQLite ([src/results_store.py](src/results_store.py)); bateria em duas fases com logs datados ([src/runner.py](src/runner.py)); Dockerfile e `docker-compose.yml`; variáveis de ambiente |
+| _(Mateus,Gabriel)_ | IA e Avaliação | Versões de prompt ([eval/prompts/](eval/prompts/)), incluindo o `v2_piorado` para testar regressão; baseline por palavra-chave ([src/baseline.py](src/baseline.py)); LLM juiz ([src/judge.py](src/judge.py)); métricas, kappa de Cohen e detecção de regressão ([src/evaluation.py](src/evaluation.py)); execução e análise dos experimentos |
+| _(Mateus)_ | Produto e Interface | Painel Streamlit ([src/app.py](src/app.py)) com resultados, regressão, avaliação humana e juiz × humano; linha de comando ([src/cli.py](src/cli.py)); evidências dos erros ([src/erros.py](src/erros.py), [evidencias/](evidencias/)); README, [PROMPTS.md](PROMPTS.md) e vídeo da demo |
 
 ## Licenças de terceiros
 
