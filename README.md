@@ -1,3 +1,13 @@
+Curso - EAD_PROINT_100.DD-ADS-PI-10-74.2026.74
+
+Disciplina - Projeto Integrador
+
+Gabriel Dos Santos, RA: 2411597;
+
+Leonardo Henrique Felix, RA: 2410717;
+
+Mateus Felipe, RA: 2411247.
+
 # Plataforma de avaliação de LLMs (Tema 3)
 
 Uma "integração contínua para IA": roda baterias de casos de teste sobre modelos e versões de prompt, usa um **LLM como juiz** calibrado contra **notas humanas** e **acusa regressões** quando uma mudança piora o resultado. Tudo roda localmente com Ollama, a custo zero.
